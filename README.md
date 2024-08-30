@@ -1,3 +1,10 @@
+### NAME: ARCHANA RAGULA
+### COMPANY: CODTECH IT SOLUTIONS
+### ID:CT08DS5886
+### DOMAIN:DATA ANALYTICS
+### DURATION:AUGUST TO SEPTEMBER
+### TASK2:Oil Price Prediction Project
+
 # Oil Price Prediction Project
 This project focuses on predicting future oil prices using historical data and various machine learning techniques. The goal is to create a predictive model that can help stakeholders make informed decisions regarding investments, production, and market strategies.
 
