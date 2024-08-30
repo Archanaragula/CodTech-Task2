@@ -3,6 +3,7 @@
 ### ID:CT08DS5886
 ### DOMAIN:DATA ANALYTICS
 ### DURATION:AUGUST TO SEPTEMBER
+### MENTOR: MUZAMMIL AHMED
 ### TASK2:Oil Price Prediction Project
 
 # Oil Price Prediction Project
@@ -61,4 +62,6 @@ Explore the data and build models using the provided notebooks in the notebooks/
 - Optionally, deploy the model using Flask or Django to create a web-based prediction tool.
 
 ## Results
+![Screenshot 2024-08-30 151337](https://github.com/user-attachments/assets/8249369f-5e06-4c1b-8e73-3250131a1379 
+
 The final model's performance will be evaluated based on various metrics, and the results will be presented in terms of accuracy, error rates, and visual comparisons between actual and predicted prices.
