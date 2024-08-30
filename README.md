@@ -7,7 +7,10 @@
 ### TASK2:Oil Price Prediction Project
 
 # Oil Price Prediction Project
-![Screenshot 2024-08-30 151337](https://github.com/user-attachments/assets/c6d0209a-56be-4d34-9851-6dfd4e9565ae)
+![Screenshot 2024-08-30 151337](https://github.com/user-attachments/assets/c6d0209a-56be-4d34-9851-6dfd4e9565ae) 
+
+![Screenshot 2024-08-30 153736](https://github.com/user-attachments/assets/ec1021a1-09f7-4438-a907-ba22d7b3a01d)
+
 
 This project focuses on predicting future oil prices using historical data and various machine learning techniques. The goal is to create a predictive model that can help stakeholders make informed decisions regarding investments, production, and market strategies.
 
